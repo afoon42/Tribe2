@@ -3,7 +3,7 @@ layout: post
 title: Testing out stuff
 postHero: /images/shark.jpg
 author: Me, Myself, and I
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/
 gravatar: https://s.gravatar.com/avatar/47b6470f44610d9afee2c79ac407608c?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
